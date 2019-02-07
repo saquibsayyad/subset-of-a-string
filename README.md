@@ -3,9 +3,11 @@
 Program to print subset of a given string
 
 #Input
+
 abc
 
 #Output
+
 a
 ab
 abc
